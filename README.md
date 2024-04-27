@@ -4,7 +4,7 @@ Sure, here's a README file template for your game:
 
 # Winged Escape
 
-Winged Escape is a simple yet addictive arcade-style game developed using the Pygame library in Python.
+Winged Escape is a simple game developed using the Pygame library in Python.
 
 ## Table of Contents
 
